@@ -14,8 +14,8 @@
 #1
 #8.142857142857142
 
-num1 = int(input("Ingrese el primer numero: "))
-num2 = int(input("Ingrese el segundo numero: "))
+num1 = 57
+num2 = 7
 
 #print(f"La suma entre {num1} y {num2} es : {num1 + num2}")
 #print(f"La diferencia entre {num1} y {num2} es : {num1 - num2}")
