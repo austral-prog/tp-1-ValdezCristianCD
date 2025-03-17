@@ -14,9 +14,6 @@
 #1
 #8.142857142857142
 
-num1 = 57
-num2 = 7
-
 #print(f"La suma entre {num1} y {num2} es : {num1 + num2}")
 #print(f"La diferencia entre {num1} y {num2} es : {num1 - num2}")
 #print(f"El producto entre {num1} y {num2} es : {num1 * num2}")
@@ -25,10 +22,13 @@ num2 = 7
 #print(f"El resto de la division entera entre {num1} y {num2} es : {num1 % num2}")
 #print(f"La division entre {num1} y {num2} es : {num1 / num2}")
 
-print(num1 + num2)
-print(num1 - num2)
-print(num1 * num2)
-print((num1 + num2) / 2)
-print(round(num1 / num2))
-print(num1 % num2)
-print(num1 / num2)
+def math():
+  num1 = 57
+  num2 = 7
+  print(num1 + num2)
+  print(num1 - num2)
+  print(num1 * num2)
+  print((num1 + num2) / 2)
+  print(round(num1 / num2))
+  print(num1 % num2)
+  print(num1 / num2)
